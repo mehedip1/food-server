@@ -8,7 +8,7 @@ const categories = require('./data/categories.json');
 app.use(cors());
 
 app.get('/',(req, res)=>{
-  res.send('I am happy')
+  res.send('I am very happy')
 });
 
 app.get('/categories',(req, res)=>{
