@@ -5,54 +5,47 @@
     "name": "John Smith",
     "recipes": "20",
     "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
+    "img": "https://media.istockphoto.com/id/1446478827/photo/a-chef-is-cooking-in-his-restaurants-kitchen.jpg?s=1024x1024&w=is&k=20&c=Wu7klZ4YOK506jBk_B6cJCsLUgoKBAPJ-O6Qe8Q_AFU="
   },
   {
-    "id": "1",
+    "id": "2",
     "experience": "5",
     "name": "John Smith",
     "recipes": "20",
     "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
+    "img": "https://images.unsplash.com/photo-1614706250649-b5ccfc837688?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
-    "id": "1",
+    "id": "3",
     "experience": "5",
     "name": "John Smith",
     "recipes": "20",
     "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
+    "img": "https://images.unsplash.com/photo-1614706250649-b5ccfc837688?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
-    "id": "1",
+    "id": "4",
     "experience": "5",
     "name": "John Smith",
     "recipes": "20",
     "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
+    "img": "https://images.unsplash.com/photo-1532635211-8ec15f2ce05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   },
   {
-    "id": "1",
+    "id": "5",
     "experience": "5",
     "name": "John Smith",
     "recipes": "20",
     "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
+    "img": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
   },
   {
-    "id": "1",
+    "id": "6",
     "experience": "5",
     "name": "John Smith",
     "recipes": "20",
     "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
-  },
-  {
-    "id": "1",
-    "experience": "5",
-    "name": "John Smith",
-    "recipes": "20",
-    "likes": "500",
-    "img": "https://imgmedia.lbb.in/media/2019/05/5cd187abcd46574040cb0722_1557235627063.jpg"
+    "img": "https://images.unsplash.com/photo-1572552635104-daf938e0aa1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
   }
+ 
 ]
