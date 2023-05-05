@@ -9,7 +9,7 @@ const recipes = require('./data/card.json')
 app.use(cors());
 
 app.get('/',(req, res)=>{
-  res.send('I am very happy')
+  res.send('I am very very happy')
 });
 
 app.get('/categories',(req, res)=>{
